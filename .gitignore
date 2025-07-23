@@ -1,3 +1,35 @@
-*.pyc
+# VS Code workspace and settings
+*.code-workspace
+.vscode/
+
+# Python artifacts (if you use Python)
 __pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment files
 .env
+.env.*
+
+# macOS system files
+.DS_Store
+
+# Linux file swap junk
+*.swo
+*.swp
+*.swn
+
+# Logs and temp
+*.log
+*.tmp
+*.bak
+
+# Ignore node modules (if you ever use JS tooling)
+node_modules/
+
+# Compiled binaries (general)
+*.o
+*.out
+*.exe
+
