@@ -1,0 +1,1 @@
+🧰 chore(devbox): added LangChain, local LLM support (Ollama), shell UX tools (fzf, zoxide, thefuck), full pre-commit linting with terraform, docker, shell, yaml, json, markdown, and AWS CloudFormation support. Polished dev tooling with jq/yq, gitmoji, cfn-lint, and other infra quality-of-life tools.
