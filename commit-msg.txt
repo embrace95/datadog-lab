@@ -1,1 +1,10 @@
-🧰 chore(devbox): added LangChain, local LLM support (Ollama), shell UX tools (fzf, zoxide, thefuck), full pre-commit linting with terraform, docker, shell, yaml, json, markdown, and AWS CloudFormation support. Polished dev tooling with jq/yq, gitmoji, cfn-lint, and other infra quality-of-life tools.
+✨ feat(devbox): add terminal UX, AI dev tools, and full linting stack
+
+- Terminal tools: fzf, zoxide, bat, exa, tldr, ripgrep, fd, btop, ncdu, tree, direnv
+- Python tools: black, flake8, autopep8, isort, mypy, pytest, ipython
+- Linting: yamllint, markdownlint, hadolint, shellcheck, prettier, cfn-lint, terraform fmt/validate
+- AI stack: langchain, transformers, llama-index, streamlit, gradio, fastapi, jupyter
+- Cloud/devops tools: AWS CLI, Terraform, Docker, kubectl, k9s, Helm, Ansible, gh
+- Docs/cheatsheets: navi, cheat, devhints.io
+
+This completes a full local dev scaffold with pre-commit automation and modern shell experience.
