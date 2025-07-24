@@ -19,6 +19,7 @@ __pycache__/
 *.swo
 *.swp
 *.swn
+*.swm
 
 # Logs and temp
 *.log

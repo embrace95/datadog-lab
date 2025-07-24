@@ -1,0 +1,10 @@
+formatter:
+  type: basic
+  options:
+    indent: 2                   # Standardize indentation (e.g., 2 spaces)
+    line_wrap: 80               # Wrap lines longer than 80 characters
+    include_document_start: true # Adds `---` at top of each document
+    keep_line_breaks: false     # Normalize multi-line blocks
+    preserve_sequence_indentation: false # Flatten lists for consistency
+    pad_line_breaks: true       # Adds line breaks between top-level elements
+    sort_keys: false            # (Optional) Set to true to sort keys alphabetically
