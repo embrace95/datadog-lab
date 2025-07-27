@@ -1,3 +1,9 @@
 {
-  "explain_k8s": "Human: Explain why Kubernetes is useful for SREs in under 100 words.\n\nAssistant:"
+  "explain_k8s": "Human: Explain why Kubernetes is useful for SREs in under 100 words.\n\nAssistant:",
+  "creative_story": "Human: Write a fun short story about a raccoon that becomes a DevOps engineer.\n\nAssistant:",
+  "structured_summary": "Human: Summarize the role of AWS IAM in 3 bullet points.\n\nAssistant:",
+  "code_gen": "Human: Write Python code that lists all S3 buckets using boto3.\n\nAssistant:",
+  "translation_test": "Human: Translate this into French: 'My monitoring dashboard is down again.'\n\nAssistant:",
+  "long_explanation": "Human: Explain the difference between Kubernetes Deployments, StatefulSets, and DaemonSets in 200 words.\n\nAssistant:",
+  "wrong_key": "This key exists for error handling, but should not be called directly."
 }
